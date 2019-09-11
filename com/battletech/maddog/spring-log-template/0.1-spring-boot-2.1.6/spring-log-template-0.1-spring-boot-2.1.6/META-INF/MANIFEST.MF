@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-log-template
+Implementation-Version: 0.1-spring-boot-2.1.6
+Build-Time: 2019-09-11T20:39:14+0100
+Build-JDK: 1.8.0_162
+Build-By: chewa
+
